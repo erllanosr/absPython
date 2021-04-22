@@ -1,0 +1,5 @@
+print("Hola, humano. Me harías el favor de escribir tu nombre¿?")
+suNombre = input()
+print("Genial, veo que te llamas " + suNombre)
+print("Es eso correcto¿?")
+verificar = input()
